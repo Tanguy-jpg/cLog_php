@@ -4,11 +4,6 @@ Project: Créer une console php, pour faciliter le développement et les tests e
 
 [Lien vers le projet](https://tanguy-jpg.github.io/cLog_php/)
 
-
-```diff
-+ https://tanguy-jpg.github.io/cLog_php/
-```
-
 ## Use
 
 Pour utiliser la console, ajoutez (en prenant exemple sur l'image ci-dessous) :
