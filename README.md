@@ -14,7 +14,7 @@ require_once('cLog-start.php');
 
 ![Example of Use](exampleOfUse.PNG)
 
-Ajoutez à la fin du fichier
+Puis ajoutez à la fin du fichier:
 
 ```diff
 require_once('cLog-end.php');
