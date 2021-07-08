@@ -11,6 +11,10 @@ Pour utiliser la console, ajoutez au début de votre *fichier PHP*, en prenant e
 ```diff
 require_once('cLog-start.php');
 ```
+La fonction à utiliser pour afficher une variable dans la console est:
+```diff
+cLog('votre élément');
+```
 
 ![Example of Use](exampleOfUse.PNG)
 
