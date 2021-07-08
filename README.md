@@ -23,6 +23,8 @@ Puis ajoutez à la fin du fichier:
 ```diff
 require_once('cLog-end.php');
 ```
+
+Assurez vous que les fichiers *cLog-start.php* et *cLog-end.php* soient dans le même dossier que le fichier sur lequel vous souhaitez utiliser *"cLog"*
 #### Render
 
 ![Example of render](render.PNG)
