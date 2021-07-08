@@ -11,7 +11,6 @@ Pour utiliser la console, ajoutez à votre *fichier PHP*, en prenant exemple sur
 ```diff
 require_once('cLog-start.php');
 ```
-au fichier dans lequel vous souhaitez l'utiliser (ici: index.php).
 
 ![Example of Use](exampleOfUse.PNG)
 
