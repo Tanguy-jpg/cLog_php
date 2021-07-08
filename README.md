@@ -13,6 +13,8 @@ require_once('cLog-start.php');
 ```
 au fichier dans lequel vous souhaitez l'utiliser (ici: index.php).
 
+![Example of Use](exampleOfUse.PNG)
+
 ## Download
 
 [Lien de téléchargement](https://drive.google.com/uc?export=download&id=1wfIngR0-kHlyVcqv2pCDH0JcJ2nd7wH9)
