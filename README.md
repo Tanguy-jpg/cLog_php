@@ -6,7 +6,7 @@
 
 ## Use
 
-Pour utiliser la console, ajoutez à votre *fichier PHP*, en prenant exemple sur l'image ci-dessous :
+Pour utiliser la console, ajoutez au début de votre *fichier PHP*, en prenant exemple sur l'image ci-dessous :
 
 ```diff
 require_once('cLog-start.php');
@@ -14,7 +14,7 @@ require_once('cLog-start.php');
 
 ![Example of Use](exampleOfUse.PNG)
 
-Ajoutez de la même manière que dans l'image ci-dessus:
+Ajoutez à la fin du fichier
 
 ```diff
 require_once('cLog-end.php');
