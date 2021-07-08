@@ -1,12 +1,12 @@
 # cLog_php 1.0
 
-*Projet:* Créer une console php, pour faciliter le développement et les tests en php.
+**Projet:** Créer une console php, pour faciliter le développement et les tests en php.
 
 [Lien vers le projet](https://tanguy-jpg.github.io/cLog_php/)
 
 ## Use
 
-Pour utiliser la console, ajoutez au début de votre *fichier PHP*, en prenant exemple sur l'image ci-dessous :
+Pour utiliser la console, ajoutez au début de votre **fichier PHP**, en prenant exemple sur l'image ci-dessous :
 
 ```diff
 require_once('cLog-start.php');
@@ -24,7 +24,7 @@ Puis ajoutez à la fin du fichier:
 require_once('cLog-end.php');
 ```
 
-Assurez vous que les fichiers *cLog-start.php* et *cLog-end.php* soient dans le même dossier que le fichier sur lequel vous souhaitez utiliser *"cLog"*
+Assurez vous que les fichiers **cLog-start.php** et **cLog-end.php** soient dans le même dossier que le fichier sur lequel vous souhaitez utiliser *"cLog"*
 #### Render
 
 ![Example of render](render.PNG)
