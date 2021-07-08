@@ -15,6 +15,12 @@ au fichier dans lequel vous souhaitez l'utiliser (ici: index.php).
 
 ![Example of Use](exampleOfUse.PNG)
 
+Ajoutez de la même manière que dans l'image ci-dessus:
+
+```diff
+require_once('cLog-end.php');
+```
+
 ## Download
 
 [Lien de téléchargement](https://drive.google.com/uc?export=download&id=1wfIngR0-kHlyVcqv2pCDH0JcJ2nd7wH9)
