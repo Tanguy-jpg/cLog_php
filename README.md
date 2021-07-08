@@ -1,6 +1,6 @@
 # cLog_php 1.0
 
-Project: Créer une console php, pour faciliter le développement et les tests.
+Project: Créer une console php, pour faciliter le développement et les tests en php.
 
 [Lien vers le projet](https://tanguy-jpg.github.io/cLog_php/)
 
@@ -11,6 +11,14 @@ Project: Créer une console php, pour faciliter le développement et les tests.
 ```
 
 ## Use
+
+Pour utiliser la console, ajoutez (en prenant exemple sur l'image ci-dessous) :
+
+```diff
+require_once('cLog-start.php');
+
+```
+au fichier dans lequel vous souhaitez l'utiliser.
 
 ## Download
 
