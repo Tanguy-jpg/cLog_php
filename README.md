@@ -1,6 +1,6 @@
 # cLog_php 1.0
 
-Project: Créer une console php, pour faciliter le développement et les tests en php.
+Projet: Créer une console php, pour faciliter le développement et les tests en php.
 
 [Lien vers le projet](https://tanguy-jpg.github.io/cLog_php/)
 
@@ -11,12 +11,9 @@ Pour utiliser la console, ajoutez (en prenant exemple sur l'image ci-dessous) :
 ```diff
 require_once('cLog-start.php');
 ```
-au fichier dans lequel vous souhaitez l'utiliser.
+au fichier dans lequel vous souhaitez l'utiliser (ici: index.php).
 
 ## Download
 
-[Lien vers le projet](https://tanguy-jpg.github.io/Trombinoscope/index.html)
+[Lien de téléchargement](https://drive.google.com/uc?export=download&id=1wfIngR0-kHlyVcqv2pCDH0JcJ2nd7wH9)
 
-```diff
-+ https://tanguy-jpg.github.io/Trombinoscope/index.html
-```
