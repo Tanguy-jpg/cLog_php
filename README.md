@@ -35,7 +35,6 @@ Assurez vous que les fichiers **cLog-start.php** et **cLog-end.php** soient dans
 
 ![Download2](download_2.PNG)
 
-[Lien de téléchargement (zip)](https://drive.google.com/uc?export=download&id=1hRqaAY6LeXGwYvmjFQTQSeTwpZNO5qMh)
 
 [Lien de téléchargement (rar)](https://drive.google.com/uc?export=download&id=1fCA9XAhLPebVBlZMLEsf71czkF_3D3ZL)
 
